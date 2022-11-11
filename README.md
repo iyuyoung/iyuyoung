@@ -1,3 +1,7 @@
+<picture>
+  <img src="https://cdn.mphot.cn/github/screenshot-20221111-162205.png" />
+</picture>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyuyoung&show_icons=true&hide=contribs,prs&bg_color=121212&title_color=ff2342&icon_color=f85066&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -9,11 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyuyoung&bg_color=121212&title_color=ff2342&icon_color=f85066&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 👋 Hi, I’m @iyuyoung
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 iyuyoung/iyuyoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
